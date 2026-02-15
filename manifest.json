@@ -1,0 +1,11 @@
+{
+    "id": "local-mcp-server",
+    "name": "Local MCP",
+    "version": "1.0.0",
+    "minAppVersion": "1.5.0",
+    "description": "Expose your vault as a Model Context Protocol (MCP) server.",
+    "author": "Lee3604",
+    "authorUrl": "https://github.com/lee3604",
+    "fundingUrl": "https://github.com/sponsors/lee3604",
+    "isDesktopOnly": true
+}
